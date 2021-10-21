@@ -1,1 +1,1 @@
-# Artego
+The Sparks Foundation Internship
